@@ -46,7 +46,7 @@ Más adelante se puede mejorar con rutas alternativas.
 
 Semana Actividad:
 
-1 Investigar APIs (Google Maps) y definir cuál usar.
+1 Investigar APIs (Google Maps) y definir cómo se usa.
 2 Crear el mapa básico (solo mostrarlo). 
 3  Hacer que se puedan registrar eventos.
 4 Mostrar los eventos en el mapa con íconos.
